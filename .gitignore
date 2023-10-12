@@ -1,5 +1,6 @@
 /venv
 /test
 *.pyc
-*.txt
 *.ini
+mc_client_token.txt
+msft_refresh_token.txt
