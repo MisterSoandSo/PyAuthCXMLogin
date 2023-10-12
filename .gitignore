@@ -1,0 +1,5 @@
+/venv
+/test
+*.pyc
+*.txt
+*.ini
